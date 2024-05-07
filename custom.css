@@ -1,0 +1,73 @@
+/* ADD YOUR CUSTOM CSS TO THIS FILE BELOW */
+.bg-primary {
+    background-image: url(sixflags.jpeg) !important;
+    background-color: rgba(0, 0, 0, 0.5);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    height: 450px;
+}
+
+.bg-head {
+	background-color: #FFF59e !important;
+}
+
+.bg-one {
+	background-color: #FFd8b2 !important;
+}
+
+.bg-two {
+	background-color: #cfebfd !important;
+}
+
+.nav-link {
+	color:#F45E02 !important;
+}
+
+.btn-primary {
+	background-color: #004AAD;
+	border-color: #004AAD;
+	color: #ffffff;
+}
+
+.text-white {
+	color: #F45E02 !important;
+}
+
+h1 {
+  font-family: "Jersey 25", sans-serif;
+  font-size: 100px !important;
+  font-style: normal;
+}
+
+h2 {
+  font-family: "Jersey 25", sans-serif;
+  font-size: 60px;
+  font-style: normal;
+}
+
+h3 {
+  font-family: "Jersey 25", sans-serif;
+  font-size: 40px;
+  font-style: normal;
+}
+
+p {
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+#about {
+  text-align: center;
+}
+
+#services {
+  text-align: center;
+}
+
+#carouselExampleFade {
+  width: 600px !important;
+}
